@@ -1,1 +1,1 @@
-Simple signup and logini page
+Simple signup and login page
